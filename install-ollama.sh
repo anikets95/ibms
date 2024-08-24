@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update Homebrew and install Ollama
-echo "Updating Homebrew and installing Ollama..."
 curl -fsSL https://ollama.com/install.sh | sh
 
 # Check if Ollama was installed successfully

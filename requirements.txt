@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+asyncpg
+sqlalchemy[asyncio]
+pydantic
+bcrypt
+passlib
+pytest
+pytest-asyncio
+httpx
+scikit-learn
+sagemaker
+pandas
+numpy
